@@ -1,1 +1,1 @@
-Moved to [https://github.com/coursera/metrics-datadog](here)
+Moved to [https://github.com/coursera/metrics-datadog](https://github.com/coursera/metrics-datadog)
